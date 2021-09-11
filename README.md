@@ -17,9 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="50" style="max-width:100%;"></img>
 
 ## Contact
-<a href="mailto:lorenzo.souza7@email.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"></img>
-</a>
 <a href="https://www.linkedin.com/in/lorenzotsouza/">
 <img href="https://www.linkedin.com/in/lorenzotsouza/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></img>
+</a>
+<a href="mailto:lorenzo.souza7@email.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"></img>
 </a>
