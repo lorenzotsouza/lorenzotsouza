@@ -1,9 +1,9 @@
 <div>
  <a href="https://github.com/lorenzotsouza/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzotsouza&show_icons=true&count_private=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzotsouza&show_icons=true&count_private=true&theme=DRACULA" />
 </a>
 <a href="https://github.com/lorenzotsouza/github-readme-stats">
-  <img height="198" style="max-width:100%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzotsouza&layout=compact">
+  <img height="198" style="max-width:100%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzotsouza&layout=compact&theme=DRACULA">
 </a> 
 </div>
  
