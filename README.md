@@ -1,7 +1,4 @@
 <div>
- <a href="https://github.com/lorenzotsouza/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzotsouza&show_icons=true&count_private=true&theme=dracula" />
-</a>
 <a href="https://github.com/lorenzotsouza/github-readme-stats">
   <img align="center" width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzotsouza&layout=compact&theme=dracula">
 </a> 
