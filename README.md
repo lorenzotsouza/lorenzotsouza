@@ -4,7 +4,7 @@
 </a> 
 </div>
  
-## Conhecimentos
+## Knowledge
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="90" height="60" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="90" height="60" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="90" height="60" style="max-width:100%;"></img>
@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="90" height="60" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="90" height="60" style="max-width:100%;"></img>
 
-## Contato
+## Contact
 <a href="https://www.linkedin.com/in/lorenzotsouza/">
 <img href="https://www.linkedin.com/in/lorenzotsouza/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></img>
 </a>
